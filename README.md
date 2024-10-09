@@ -5,9 +5,9 @@ A dynamic Power BI dashboard designed to track and analyze car sales performance
 ## Key Features
 
 ### KPIs:
-- **Sales Overview**: YTD Sales, MTD Sales, YOY Growth, PTYD Comparison
-- **Average Price**: YTD & MTD Average Price, YOY Growth, PTYD Comparison
-- **Cars Sold**: YTD & MTD Cars Sold, YOY Growth, PTYD Comparison
+- **Sales Overview**: YTD Sales, MTD Sales, YOY Growth, PYTD Comparison
+- **Average Price**: YTD & MTD Average Price, YOY Growth, PYTD Comparison
+- **Cars Sold**: YTD & MTD Cars Sold, YOY Growth, PYTD Comparison
 
 ### Visuals:
 - **YTD Sales Weekly Trend**: Line chart
